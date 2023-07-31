@@ -1,1 +1,2 @@
 Hello Odin!
+Hello this the new line and a refresher course for the odin project on the topic of GIT hahaha have fun dude
